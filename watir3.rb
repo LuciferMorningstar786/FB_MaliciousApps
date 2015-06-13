@@ -49,7 +49,6 @@ def get_liked_pages(url)
     b.close
 end 
 
-
 #test cases
 get_likes_metric("https://www.facebook.com/mahjongtrails/likes")
 get_liked_pages("https://www.facebook.com/candycrushsaga/")
